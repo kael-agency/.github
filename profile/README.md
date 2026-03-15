@@ -1,4 +1,4 @@
-# Keal 🚀
+# Kael Agency 🚀
 
 Keal is a web development agency focused on building modern, fast and visually attractive websites for local businesses.
 
