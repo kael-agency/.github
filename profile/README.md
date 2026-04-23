@@ -1,34 +1,76 @@
 # Kael Agency 🚀
 
-Keal is a web development agency focused on building modern, fast and visually attractive websites for local businesses.
+Kael Agency helps tourism businesses in Huila, Colombia get direct reservations through WhatsApp.
+
+We don’t sell websites.
+
+We build simple systems that turn online visitors into real customers.
+
+---
 
 ## What we do
 
-- Landing pages for businesses
-- Business websites
-- UI focused design
-- Fast and optimized websites
-- Custom web solutions
+- Direct reservation systems for:
+  - Fincas
+  - Glampings
+  - Local experiences (coffee tours, rural activities)
+
+- Landing pages focused on conversion (not just design)
+
+- WhatsApp-first strategy to generate real conversations with customers
+
+---
+
+## Our approach
+
+Most businesses depend on platforms like Airbnb or Booking.
+
+We help them:
+
+- Get clients directly
+- Reduce commissions
+- Take control of their own reservations
+
+Everything we build is focused on one goal:
+
+**More conversations. More bookings.**
+
+---
 
 ## Technologies
 
-We build projects using modern technologies such as:
+We use modern tools to build fast and reliable systems:
 
 - React
 - TypeScript
 - TailwindCSS
 - Node.js
 - Express
-- Modern deployment platforms
+- Vercel
 
-## Our mission
+Technology is just the tool.
+The goal is results.
 
-Help local businesses have a professional presence on the internet with fast and well designed websites.
+---
 
 ## Projects
 
-Here you will find demos and projects created for different businesses and industries.
+You will find real examples of conversion-focused landing pages:
+
+- Tourism experiences
+- Coffee businesses
+- Local services
+
+---
+
+## Our mission
+
+Help local tourism businesses grow with simple, effective systems that bring real customers.
+
+---
 
 ## Contact
 
-If you want to collaborate or build a website with us feel free to reach out.
+If you run a tourism business and want more direct reservations:
+
+📩 Reach out and let’s talk.
